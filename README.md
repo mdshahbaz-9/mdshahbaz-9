@@ -3,7 +3,7 @@
 
 - 🤝 **I’m looking to collaborate on full stack projects**
 
-- 🌐 **I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+- 🌐 **I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js)** 
 
 - ✨ **Passionate about creating dynamic and responsive web applications**
 
